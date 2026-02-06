@@ -135,6 +135,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[X (Twitter)](https://github.com/EnesCinr/twitter-mcp)** (by EnesCinr) - Interact with twitter API. Post tweets and search for tweets by query.
 - **[X (Twitter)](https://github.com/vidhupv/x-mcp)** (by vidhupv) - Create, manage and publish X/Twitter posts directly through Claude chat.
 - **[XMind](https://github.com/apeyroux/mcp-xmind)** - Read and search through your XMind directory containing XMind files.
+- - **[DC Hub Nexus](https://github.com/azmartone67/dchub-mcp-server)** - Data center intelligence with 20,000+ facilities, M&A tracking, and site analysis across 140+ countries
 
 ## 📚 Frameworks
 

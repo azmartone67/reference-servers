@@ -40,6 +40,10 @@ The following reference servers are now archived and can be found at [servers-ar
 
 - **[AWS KB Retrieval](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/aws-kb-retrieval-server)** - Retrieval from AWS Knowledge Base using Bedrock Agent Runtime.
 - **[Brave Search](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/brave-search)** - Web and local search using Brave's Search API.  Has been replaced by the [official server](https://github.com/brave/brave-search-mcp-server).
+- - **[DC Hub](https://dchub.cloud/connect)** - Data center intelligence platform 
+  providing facility search across 20,000+ facilities in 140+ countries, M&A 
+  transaction tracking ($185B+), real-time grid fuel mix from 7 US ISOs, location 
+  site scoring, and industry news aggregation.
 - **[EverArt](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/everart)** - AI image generation using various models.
 - **[GitHub](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github)** - Repository management, file operations, and GitHub API integration.
 - **[GitLab](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab)** - GitLab API, enabling project management.
